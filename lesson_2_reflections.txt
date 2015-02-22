@@ -16,3 +16,7 @@ very much indeed, I now have a solid understanding of the branch structure.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 the result is the combined version of the two branches, and by that representation it will be clear to the user that there was a merge here.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+easy doing, may do some un wanted changes..
+more complex, guarantees stability
