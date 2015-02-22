@@ -4,3 +4,15 @@ i dont know why i need to do it yet.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 it contains the files that are ready to be committed, and already added to the tracked files on the repository, its the place between working directory and commits.
+
+How can you use the staging area to make sure you have one commit per logical change?
+git diff will show all the changes that have been made , and then one can check if there is one commit per logical change or not.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+branches are helpful when you want to try something new, rather than fixing a bug, and this could have an impact on the project , and you want to have a point you can return to , or a working copy of the project.
+
+How do the diagrams help you visualize the branch structure?
+very much indeed, I now have a solid understanding of the branch structure.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+the result is the combined version of the two branches, and by that representation it will be clear to the user that there was a merge here.
