@@ -12,3 +12,6 @@ each one serves a different perpose.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 to reduce the conflections when pushing to the remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+with copying the content or sending them, or even with other softwares, but git and github is way easier.
